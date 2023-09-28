@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@azure/openai": "^1.0.0-beta.6",
+    "dotenv": "^16.3.1"
+  }
+}
